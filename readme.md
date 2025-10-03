@@ -1,5 +1,3 @@
-I have reviewed the contract and mapped out fund-loss vectors, focusing on share accounting, external calls, and token behavior.
-
 ### Critical Vulnerabilities
 
 1) Unsafe ERC20 interactions (no return-value checks)
